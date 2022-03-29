@@ -1,1 +1,4 @@
-from master 
+
+from master
+branch1 
+conflict resolved 
